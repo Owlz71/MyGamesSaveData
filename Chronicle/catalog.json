@@ -406,8 +406,382 @@
       "stored_bytes": 46297,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": null,
+      "created_at_ms": 1790951686277,
+      "exclude_patterns": [],
+      "folder": "SlayTheSpire2__6fc07191-46ef-45e9-953c-e7cda3786692",
+      "id": "6fc07191-46ef-45e9-953c-e7cda3786692",
+      "last_snapshot_at_ms": 1790951686450,
+      "name": "SlayTheSpire2",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T143446.450Z_2f39d93a.7z",
+          "changes": {
+            "added": 54,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790951686450,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "6fc07191-46ef-45e9-953c-e7cda3786692",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "9739ad8352e422cdd47c1bdd54cd0895cf37b5473bb0d7f9ba7f1aa0d5630829",
+              "modified_at_ms": 1775659407000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile.save",
+              "size_bytes": 52
+            },
+            {
+              "content_hash": "9739ad8352e422cdd47c1bdd54cd0895cf37b5473bb0d7f9ba7f1aa0d5630829",
+              "modified_at_ms": 1773852661000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile.save.backup",
+              "size_bytes": 52
+            },
+            {
+              "content_hash": "0c92670aacff5d5168d956f24be814981e68eea2186dc0b9ad021ea20c50d2ec",
+              "modified_at_ms": 1773850469219,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/replays/latest.mcr",
+              "size_bytes": 44056
+            },
+            {
+              "content_hash": "511fe0caab6ce4580e467a7f16f3d7f60d40baf3cd8276783ac59ab1dea0661e",
+              "modified_at_ms": 1775657638000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/current_run.save",
+              "size_bytes": 44448
+            },
+            {
+              "content_hash": "f7442329515fc6abf2c307f732eb32e2cb12d82fbd640a1720a876df72acc047",
+              "modified_at_ms": 1775657634000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/current_run.save.backup",
+              "size_bytes": 44388
+            },
+            {
+              "content_hash": "d1052e14621db92c7f261942dcde71da3d183f5ac5e20c6b324afb29529aeb98",
+              "modified_at_ms": 1772806793000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772805161.run",
+              "size_bytes": 1735
+            },
+            {
+              "content_hash": "d647f52c22e43c69c2978ed553f55f6f6058afb5a69fd3c01329948fc1b6352b",
+              "modified_at_ms": 1772807272000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772806865.run",
+              "size_bytes": 11459
+            },
+            {
+              "content_hash": "b4e0c0ca30b1539d3f13a9090cb6d5bb3a63fe70983283b5d5b4cb8072da93f8",
+              "modified_at_ms": 1772808844000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772807300.run",
+              "size_bytes": 28646
+            },
+            {
+              "content_hash": "48bd128e82808f1db47bcef2bca8ee8ae7947da3d9d743203cb74320f37fdf48",
+              "modified_at_ms": 1772809739000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772808883.run",
+              "size_bytes": 17720
+            },
+            {
+              "content_hash": "91089864f449649d618f33dc2401e3f12ec6c5b70a43927b9527fc48e588de04",
+              "modified_at_ms": 1772812408000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772811347.run",
+              "size_bytes": 26000
+            },
+            {
+              "content_hash": "5e743b1ba5e47996f69d967fb97c7e7bc55da2e6c6365308c57ace6c43f9b813",
+              "modified_at_ms": 1772812973000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772812425.run",
+              "size_bytes": 14112
+            },
+            {
+              "content_hash": "d703b1fbd57dc695d9932e35b0003a5c783d9bd6db2f06c57f8ca5a161c02db4",
+              "modified_at_ms": 1772814625000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772812982.run",
+              "size_bytes": 39048
+            },
+            {
+              "content_hash": "7db52488b34a14a540493802b7e872a0845ffe213d3438c99bd617930e3315a2",
+              "modified_at_ms": 1772815657000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772814662.run",
+              "size_bytes": 26606
+            },
+            {
+              "content_hash": "edde4af79f9954dd3e2b2deba4133b93c8d285f72f7537de905a98a1a698565d",
+              "modified_at_ms": 1772816158000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772815667.run",
+              "size_bytes": 19791
+            },
+            {
+              "content_hash": "8943aa3417489dc342c60b25331526e5fd6e9bef44ddb93dd3cc8598c9286223",
+              "modified_at_ms": 1772818102000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772816347.run",
+              "size_bytes": 48206
+            },
+            {
+              "content_hash": "12eed0baa78f4acbb2eb55ae04a6fff6e09ee3cac3bf3460ed1b8767b3a46433",
+              "modified_at_ms": 1772818445000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772818119.run",
+              "size_bytes": 12306
+            },
+            {
+              "content_hash": "b7fd022f6e3608dbee1686350a083dc2ce2b9ea211af9d9f56fc561cfae0b8d1",
+              "modified_at_ms": 1772819939000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772818457.run",
+              "size_bytes": 52481
+            },
+            {
+              "content_hash": "ce85ed99bfed3c20d11d8c977aef9c9651e744a44195cb330a9a72474d6cde48",
+              "modified_at_ms": 1772823064000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772819955.run",
+              "size_bytes": 83847
+            },
+            {
+              "content_hash": "9d6a630beb47f7f155609aeae45dbca42f7f7f3b7707b016b6ae6c1b586ae48c",
+              "modified_at_ms": 1772862012000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772861980.run",
+              "size_bytes": 3172
+            },
+            {
+              "content_hash": "b1b18b41a735bf07e280a41336d3fb581d92f14a5e42d8eadc8735a3de7e0074",
+              "modified_at_ms": 1772866948000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772862024.run",
+              "size_bytes": 11428
+            },
+            {
+              "content_hash": "5a99cc0ae2e0ebf08ff965e2f0bf72750d57eadc37dc250d224e6f2c3100fa9c",
+              "modified_at_ms": 1772867318000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772867094.run",
+              "size_bytes": 10509
+            },
+            {
+              "content_hash": "0b0027c85cd188acc4be9fefec1110cf564ad747171bb6fe3581e0e59c154cea",
+              "modified_at_ms": 1772867727000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772867328.run",
+              "size_bytes": 24891
+            },
+            {
+              "content_hash": "3f082e1965149f86371eae4534a05221bf1b161e85327c22ea036f8da3914e1c",
+              "modified_at_ms": 1772869220000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772867739.run",
+              "size_bytes": 45822
+            },
+            {
+              "content_hash": "04fb46b1a87b4683d3803d85c974943369f174e4c44fe99a01716f7e9fdbd539",
+              "modified_at_ms": 1772872914000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772869242.run",
+              "size_bytes": 66988
+            },
+            {
+              "content_hash": "fff7287c68818a616a66f8cd43138204ebc0eb54d489e732aa30e96b34c74955",
+              "modified_at_ms": 1772875604000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772872989.run",
+              "size_bytes": 51366
+            },
+            {
+              "content_hash": "403e4e1182b0fdd41cc536120766d476d0390dd5bae15e7a65cfb9e81ab1d699",
+              "modified_at_ms": 1772890140000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772889389.run",
+              "size_bytes": 17284
+            },
+            {
+              "content_hash": "5f95ff86df4b272de80c648c48a0c62dd8cbc9884ed94e60b4c43e4ede1a412a",
+              "modified_at_ms": 1772890714000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772890153.run",
+              "size_bytes": 21171
+            },
+            {
+              "content_hash": "4ae5ddab2d13821399332516b4fd0402cf724b446a42da01e40347162cda1752",
+              "modified_at_ms": 1772892243000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772890729.run",
+              "size_bytes": 28046
+            },
+            {
+              "content_hash": "6c966524b950c2db76304b5cbe683c438003d3ae2ae06ff2812749071fe931b1",
+              "modified_at_ms": 1772892273000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772892255.run",
+              "size_bytes": 3782
+            },
+            {
+              "content_hash": "1cbde67e10fe7a26dd61512d9e95c46e75bb0168eec9fb1b602ab2589dedf0b3",
+              "modified_at_ms": 1772893075000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772892281.run",
+              "size_bytes": 26497
+            },
+            {
+              "content_hash": "1ed56bfaea0b0a89ec05f42f41527c3bb7a10fdaeddf6c73d0fa225582b18aa4",
+              "modified_at_ms": 1772897742000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772893086.run",
+              "size_bytes": 80390
+            },
+            {
+              "content_hash": "abac9eeb6e3b37e62b9cbba70d3da159f69e6e6fbe6bfe61cc3515af951cfbee",
+              "modified_at_ms": 1772975542000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772948819.run",
+              "size_bytes": 81687
+            },
+            {
+              "content_hash": "6af5c1d8eb24098ed8e9de4b58eaca4243f9543208f7af34fc30888cb41a9853",
+              "modified_at_ms": 1772983053000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772975585.run",
+              "size_bytes": 82681
+            },
+            {
+              "content_hash": "4a9b0b0b9739548a9095c22abc722b5eb3e8f7f2d1f8eed4de31a42c0a43fb1f",
+              "modified_at_ms": 1772987156000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1772983072.run",
+              "size_bytes": 53867
+            },
+            {
+              "content_hash": "8ece83e095951d395bdf25c81626689cf741061b4766ce669d6e91b41af46150",
+              "modified_at_ms": 1773070211000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773068285.run",
+              "size_bytes": 41117
+            },
+            {
+              "content_hash": "e61a6f95fd21a556d707d239f14dff59915fd6f6cc3b2b51ba02590878fff70c",
+              "modified_at_ms": 1773075952000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773070227.run",
+              "size_bytes": 79064
+            },
+            {
+              "content_hash": "9bb3b284ca9120de3770214d0205f276a984a535dd86f6ac78ad05c68b370a83",
+              "modified_at_ms": 1773075987000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773075977.run",
+              "size_bytes": 1707
+            },
+            {
+              "content_hash": "45548c083520dc3c2a8daca834b93f58928677415dfb70aad17d5e0871b28b99",
+              "modified_at_ms": 1773080912000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773075992.run",
+              "size_bytes": 82695
+            },
+            {
+              "content_hash": "f07ce44e2e5d1f0f9ac24fa004397f7f45a475a407744a067ecf77e61d1c616f",
+              "modified_at_ms": 1773084321000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773080980.run",
+              "size_bytes": 72135
+            },
+            {
+              "content_hash": "91bad9b3ddec8d278755a926ccf94afef831b6fc54437b702fea70bad22c0c84",
+              "modified_at_ms": 1773143415000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773084349.run",
+              "size_bytes": 16142
+            },
+            {
+              "content_hash": "bf2cf33cf9cdc68c309063a8bc4b8fcffe6b34b72ed4af6bb7c49a27f605a168",
+              "modified_at_ms": 1773143914000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773143492.run",
+              "size_bytes": 13295
+            },
+            {
+              "content_hash": "356ac85158b2b0286623ba32f7f934c4ef7c3618a55b0c42ff2817c239f0a839",
+              "modified_at_ms": 1773144332000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773143924.run",
+              "size_bytes": 13862
+            },
+            {
+              "content_hash": "5345ce43a0b4104304a8c22dc4280d2f8b2684e18f9ad6081debd5bd07245a9b",
+              "modified_at_ms": 1773144760000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773144339.run",
+              "size_bytes": 17879
+            },
+            {
+              "content_hash": "982c6cdd2e45d47b1fab8dcf7e3c9d9fa359fb61cf08da1cd821d82f0c120788",
+              "modified_at_ms": 1773399972000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773144768.run",
+              "size_bytes": 19445
+            },
+            {
+              "content_hash": "7dcf81723975013b301e7a8bd43d29d86da4b55e913ea684563bbfa8097080ac",
+              "modified_at_ms": 1773404985000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773400007.run",
+              "size_bytes": 83957
+            },
+            {
+              "content_hash": "ffda89d9d31244b9e81b3bae5b7b70c033ac9023f62fe920e8d8d8b385871da4",
+              "modified_at_ms": 1773502957000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773405020.run",
+              "size_bytes": 19548
+            },
+            {
+              "content_hash": "e6698b58f752992ce5dd6a9d79b9cb979ff9b4257acc9feca7cae4cf1defef50",
+              "modified_at_ms": 1773848147000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773844654.run",
+              "size_bytes": 51877
+            },
+            {
+              "content_hash": "6787e9f6316f6ce2adf97ad98b237e8979148d11114311ed54a1aa2d0bd9e78f",
+              "modified_at_ms": 1773850645000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/history/1773848162.run",
+              "size_bytes": 49450
+            },
+            {
+              "content_hash": "a86ed846a43c675ceaccb26aaf06543efa910634bf979382098f62c8f4f79686",
+              "modified_at_ms": 1775659407000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/prefs.save",
+              "size_bytes": 243
+            },
+            {
+              "content_hash": "a86ed846a43c675ceaccb26aaf06543efa910634bf979382098f62c8f4f79686",
+              "modified_at_ms": 1773852661000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/prefs.save.backup",
+              "size_bytes": 243
+            },
+            {
+              "content_hash": "1e4e1c293b4f7ca8a31d52daeff4f0caec0853e51a174d70618934c1d16d680a",
+              "modified_at_ms": 1775659407000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/progress.save",
+              "size_bytes": 159118
+            },
+            {
+              "content_hash": "1e4e1c293b4f7ca8a31d52daeff4f0caec0853e51a174d70618934c1d16d680a",
+              "modified_at_ms": 1775657638000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/profile1/saves/progress.save.backup",
+              "size_bytes": 159118
+            },
+            {
+              "content_hash": "2361bfe0e22cb60589ba2a9339ff393f16073a9f45a650dadd26e2f1f415b36a",
+              "modified_at_ms": 1775659407000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/settings.save",
+              "size_bytes": 2226
+            },
+            {
+              "content_hash": "2361bfe0e22cb60589ba2a9339ff393f16073a9f45a650dadd26e2f1f415b36a",
+              "modified_at_ms": 1775657407000,
+              "relative_path": "83fc70af-568a-401b-8388-c3e694e758ce/76561198676103195/settings.save.backup",
+              "size_bytes": 2226
+            }
+          ],
+          "id": "2f39d93a-9730-4f48-b619-ecac1235d1ab",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "bdcab2d4872732858541ffdaa3700cfe0070b40695fd3b293336c4dfeb034ae3",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 161173,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 1,
+      "sources": [
+        {
+          "id": "83fc70af-568a-401b-8388-c3e694e758ce",
+          "kind": "directory",
+          "name": "steam"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 161173,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790951199548
+  "updated_at_ms": 1790951690377
 }
