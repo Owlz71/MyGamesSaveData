@@ -1181,8 +1181,202 @@
       "stored_bytes": 2071,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
+      "created_at_ms": 1790955408844,
+      "exclude_patterns": [],
+      "folder": "SuccubusTemptation アリアサキュズム__94eed7ae-9b73-474d-8a6e-76468156d449",
+      "id": "94eed7ae-9b73-474d-8a6e-76468156d449",
+      "last_snapshot_at_ms": 1790955408912,
+      "name": "SuccubusTemptation アリアサキュズム",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T153648.912Z_df9f6157.7z",
+          "changes": {
+            "added": 24,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790955408912,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "94eed7ae-9b73-474d-8a6e-76468156d449",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "a45eb661369fee5073699bcbb185c1afd2de5fba7a6d656e3f7748ed89627355",
+              "modified_at_ms": 1786906174770,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Player-prev.log",
+              "size_bytes": 18365
+            },
+            {
+              "content_hash": "5631ef7373b87a40b164dfcb539f8cca23f2a2f693a3e6ec32628423b097fd4f",
+              "modified_at_ms": 1787134280084,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Player.log",
+              "size_bytes": 16221
+            },
+            {
+              "content_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+              "modified_at_ms": 1785237943282,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178523794300002.49a0fcba/c",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "a0c8fa631124184190816483dd81cd1d5605667b51fcf01d2f31c2043ad49b81",
+              "modified_at_ms": 1785237943282,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178523794300002.49a0fcba/e",
+              "size_bytes": 606
+            },
+            {
+              "content_hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+              "modified_at_ms": 1785237943282,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178523794300002.49a0fcba/g",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "fd8ced0c2546fc1e87eacda2dfd728fb4e2813fab1674200f59d57959aff8036",
+              "modified_at_ms": 1785237943281,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178523794300002.49a0fcba/s",
+              "size_bytes": 462
+            },
+            {
+              "content_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+              "modified_at_ms": 1785237943283,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178523794300003.49a0fcba/c",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "53627735f4e779ec229ce19a1515dc657f51ad184a900993db7c4fb3fbe6b53e",
+              "modified_at_ms": 1785237943283,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178523794300003.49a0fcba/e",
+              "size_bytes": 561
+            },
+            {
+              "content_hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+              "modified_at_ms": 1785237943283,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178523794300003.49a0fcba/g",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "fd8ced0c2546fc1e87eacda2dfd728fb4e2813fab1674200f59d57959aff8036",
+              "modified_at_ms": 1785237943283,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178523794300003.49a0fcba/s",
+              "size_bytes": 462
+            },
+            {
+              "content_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+              "modified_at_ms": 1786906157858,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690615700000.9285829e/c",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "faaaa800dbab8e49276e527f88f1526e7df279e4904fa3d343186f714c3593cb",
+              "modified_at_ms": 1786906157858,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690615700000.9285829e/e",
+              "size_bytes": 602
+            },
+            {
+              "content_hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+              "modified_at_ms": 1786906157858,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690615700000.9285829e/g",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "e2f44b98ef0b83af14b270ca4d67235f6cb6ab9ac5cb37fcc3c60179a69af180",
+              "modified_at_ms": 1786906157858,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690615700000.9285829e/s",
+              "size_bytes": 462
+            },
+            {
+              "content_hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+              "modified_at_ms": 1786906174620,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690617400001.9285829e/c",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "24950e514e7f724ec737ace35e9dffb5b751d273a61f573b23547723d257e941",
+              "modified_at_ms": 1786906174620,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690617400001.9285829e/e",
+              "size_bytes": 691
+            },
+            {
+              "content_hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+              "modified_at_ms": 1786906174620,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690617400001.9285829e/g",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "e2f44b98ef0b83af14b270ca4d67235f6cb6ab9ac5cb37fcc3c60179a69af180",
+              "modified_at_ms": 1786906174620,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690617400001.9285829e/s",
+              "size_bytes": 462
+            },
+            {
+              "content_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+              "modified_at_ms": 1786906174622,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690617400002.9285829e/c",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "5b96919795510f5a0f2552918553f2feccec9396c17fb7511e608bd1128319b0",
+              "modified_at_ms": 1786906174622,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690617400002.9285829e/e",
+              "size_bytes": 1408
+            },
+            {
+              "content_hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+              "modified_at_ms": 1786906174621,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690617400002.9285829e/g",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "e2f44b98ef0b83af14b270ca4d67235f6cb6ab9ac5cb37fcc3c60179a69af180",
+              "modified_at_ms": 1786906174621,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/ArchivedEvents/178690617400002.9285829e/s",
+              "size_bytes": 462
+            },
+            {
+              "content_hash": "83b3f90c4edf1f122c8faf9784ca0aee4dd017c65493ac181c1814211703db96",
+              "modified_at_ms": 1785237137425,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/config",
+              "size_bytes": 293
+            },
+            {
+              "content_hash": "072e49f9dd5e08dbbad918db13d58e7c94bee2ecb091b53ed6e7873896b4fa69",
+              "modified_at_ms": 1786906174619,
+              "relative_path": "f154d128-514c-499c-9b77-34f476f458e8/Unity/6a603cb1-2664-4045-9ccb-bcd0f9bc6106/Analytics/values",
+              "size_bytes": 138
+            }
+          ],
+          "id": "df9f6157-f855-4243-8196-9537d2fbb503",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "0c868647104b5e592b74460cc3c7217455669b060db56a098cde6ee31cf14e43",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 10888,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 1,
+      "sources": [
+        {
+          "id": "f154d128-514c-499c-9b77-34f476f458e8",
+          "kind": "directory",
+          "name": "SuccubusTemptationW"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 10888,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790953141923
+  "updated_at_ms": 1790955413732
 }
