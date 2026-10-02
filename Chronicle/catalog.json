@@ -1071,8 +1071,118 @@
       "stored_bytes": 11622,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": null,
+      "created_at_ms": 1790953136356,
+      "exclude_patterns": [],
+      "folder": "PhoenotopiaAwakening__cc6bf056-0016-494f-82c9-358bad919b87",
+      "id": "cc6bf056-0016-494f-82c9-358bad919b87",
+      "last_snapshot_at_ms": 1790953136421,
+      "name": "PhoenotopiaAwakening",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T145856.421Z_c9b277ed.7z",
+          "changes": {
+            "added": 10,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790953136421,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "cc6bf056-0016-494f-82c9-358bad919b87",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "c19be65024070d702a149c657e17d53ac3d57a58aad373d2d196fa44ba42df36",
+              "modified_at_ms": 1769878583505,
+              "relative_path": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d/Unity/local.aee3de2c18227d846be43bb6a462ee2a/Analytics/ArchivedEvents/176987858300001.2177c9f2/e",
+              "size_bytes": 170
+            },
+            {
+              "content_hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+              "modified_at_ms": 1769878583505,
+              "relative_path": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d/Unity/local.aee3de2c18227d846be43bb6a462ee2a/Analytics/ArchivedEvents/176987858300001.2177c9f2/g",
+              "size_bytes": 1
+            },
+            {
+              "content_hash": "a80ffda7ed8e9afab875c109d71852a16db3b218ad455dd4d6d46d8160258abc",
+              "modified_at_ms": 1769878583505,
+              "relative_path": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d/Unity/local.aee3de2c18227d846be43bb6a462ee2a/Analytics/ArchivedEvents/176987858300001.2177c9f2/s",
+              "size_bytes": 343
+            },
+            {
+              "content_hash": "8bb722301d81cdf408b4e65396721fb69def9e942afb6ab84e97639070efbbc5",
+              "modified_at_ms": 1769876873356,
+              "relative_path": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d/Unity/local.aee3de2c18227d846be43bb6a462ee2a/Analytics/config",
+              "size_bytes": 292
+            },
+            {
+              "content_hash": "38c444feb7c278c82fc7627ef653a61fae5befd7605b892d184440460e4edff5",
+              "modified_at_ms": 1769878583504,
+              "relative_path": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d/Unity/local.aee3de2c18227d846be43bb6a462ee2a/Analytics/values",
+              "size_bytes": 150
+            },
+            {
+              "content_hash": "ab9ec0682531994a1d76494fcba1d1036588f0620fddc1940743faf3ddec1de4",
+              "modified_at_ms": 1769878534737,
+              "relative_path": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d/file_0_save.dat",
+              "size_bytes": 1773
+            },
+            {
+              "content_hash": "ad8e426d7332ded1454975c1f3b99b4072424dee4a8f9cafbf032efdf47c2833",
+              "modified_at_ms": 1769839216247,
+              "relative_path": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d/file_1_save.dat",
+              "size_bytes": 1739
+            },
+            {
+              "content_hash": "ad8e426d7332ded1454975c1f3b99b4072424dee4a8f9cafbf032efdf47c2833",
+              "modified_at_ms": 1769839216248,
+              "relative_path": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d/file_2_save.dat",
+              "size_bytes": 1739
+            },
+            {
+              "content_hash": "ad8e426d7332ded1454975c1f3b99b4072424dee4a8f9cafbf032efdf47c2833",
+              "modified_at_ms": 1769839216248,
+              "relative_path": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d/file_3_save.dat",
+              "size_bytes": 1739
+            },
+            {
+              "content_hash": "2b75093427c11d6b0a74aceea839b1f1557d206e897d8876a1f0c41ed0d90dfb",
+              "modified_at_ms": 1769842323185,
+              "relative_path": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d/settings_save.dat",
+              "size_bytes": 115
+            }
+          ],
+          "id": "c9b277ed-ee54-4ab1-a820-1ee09d4bfe89",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "349bd9395130dd6e85d5958d44fa44a94f826e8ee64a6dc499390fd0bd211ddc",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 2071,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 1,
+      "sources": [
+        {
+          "id": "3b7228ae-f179-4ae5-9af7-c5cf0c52289d",
+          "kind": "directory",
+          "name": "PhoenotopiaAwakening"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 2071,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790952073708
+  "updated_at_ms": 1790953141923
 }
