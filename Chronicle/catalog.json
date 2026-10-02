@@ -1505,8 +1505,75 @@
       "stored_bytes": 7607,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": "6929a355-eaef-4d2e-b111-679816e22fbf",
+      "created_at_ms": 1790959274919,
+      "exclude_patterns": [],
+      "folder": "NoSleepForKanameDate__2c6e4866-d3e4-4051-9d01-26d3de071458",
+      "id": "2c6e4866-d3e4-4051-9d01-26d3de071458",
+      "last_snapshot_at_ms": 1790959275005,
+      "name": "NoSleepForKanameDate",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T164115.005Z_aae51223.7z",
+          "changes": {
+            "added": 2,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790959275005,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "2c6e4866-d3e4-4051-9d01-26d3de071458",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "b02a8a1c251cedc35937c8ea65dfbf569f939f7f907a277445d9d6ad9177dc17",
+              "modified_at_ms": 1764656214206,
+              "relative_path": "0dea9aaf-b115-4f6e-8ea1-8a17785b8f4f/System.dat",
+              "size_bytes": 694
+            },
+            {
+              "content_hash": "17cded2ecddef5b1083abc38f6ee7323d43f54b3dc6038cb8855c6846b526f35",
+              "modified_at_ms": 1764656223212,
+              "relative_path": "94984452-f0f3-4972-9ff7-c2a3a9d5fbcf/Player.log",
+              "size_bytes": 14322
+            }
+          ],
+          "id": "aae51223-3be9-4839-89a2-f377b94fcd69",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "177b902079418ae7bb944e37efcb29e922577de1112537d565934d50a2668666",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 2804,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 2,
+      "sources": [
+        {
+          "id": "0dea9aaf-b115-4f6e-8ea1-8a17785b8f4f",
+          "kind": "directory",
+          "name": "NoSleepForKanameDate"
+        },
+        {
+          "id": "94984452-f0f3-4972-9ff7-c2a3a9d5fbcf",
+          "kind": "file",
+          "name": "Player.log"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 2804,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790958923519
+  "updated_at_ms": 1790959282036
 }
