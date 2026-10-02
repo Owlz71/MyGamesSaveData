@@ -1,6 +1,13 @@
 {
   "entries": {
     "25ba867b-8ebb-4313-90ee-c8369912984f": [],
+    "2c6e4866-d3e4-4051-9d01-26d3de071458": [
+      {
+        "id": "6929a355-eaef-4d2e-b111-679816e22fbf",
+        "name": "一般向",
+        "parent_id": null
+      }
+    ],
     "57bd9910-a3dd-4ecc-b3a0-1e8d8f63ad5d": [],
     "5adc6a2d-4056-4a3d-a141-ddf0a07d820d": [
       {
@@ -56,5 +63,5 @@
     ]
   },
   "formatVersion": 1,
-  "updatedAtMs": 1790958930762
+  "updatedAtMs": 1790959290547
 }
