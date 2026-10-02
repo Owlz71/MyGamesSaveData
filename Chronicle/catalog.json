@@ -848,8 +848,163 @@
       "stored_bytes": 775,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": null,
+      "created_at_ms": 1790952020755,
+      "exclude_patterns": [],
+      "folder": "Ever17__25ba867b-8ebb-4313-90ee-c8369912984f",
+      "id": "25ba867b-8ebb-4313-90ee-c8369912984f",
+      "last_snapshot_at_ms": 1790952021007,
+      "name": "Ever17",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T144021.007Z_c3905780.7z",
+          "changes": {
+            "added": 10,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790952021007,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "25ba867b-8ebb-4313-90ee-c8369912984f",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "6cf15dbbb4a6aafd204faf2c77c25ef8463a098da4a7e40d9c721ef251c9f694",
+              "modified_at_ms": 1787248987898,
+              "relative_path": "409269bc-f9d7-478c-af4b-41766606ec98/save16.txt",
+              "size_bytes": 64962
+            },
+            {
+              "content_hash": "2b5e23dc76d31ada51c182b4d528c37b21f31d17691374c8c51fe52dcc88251b",
+              "modified_at_ms": 1786942616279,
+              "relative_path": "53710749-cb33-4659-a426-e4e87ab3cf46/save09.dat",
+              "size_bytes": 2996
+            },
+            {
+              "content_hash": "9c3cc7c0b555c1dc02fcb7fd8e342aa46fc2c84e834a3926541a9a3d6e274340",
+              "modified_at_ms": 1787249745639,
+              "relative_path": "66f05044-bd69-4966-9f12-6a38590ff057/save02.atr",
+              "size_bytes": 100030
+            },
+            {
+              "content_hash": "d1f4f5907bc8ee551ade1a374bc0602dbe809f989acb366b17087d0efd1d67c9",
+              "modified_at_ms": 1787248987904,
+              "relative_path": "67a9b17a-6c7e-4bee-87cd-67cf834a95ab/save16.atr",
+              "size_bytes": 40610
+            },
+            {
+              "content_hash": "ef9cee78c8186dae8f0ffae3ab09295ffa7e1cd81b8052a52b04c45c4e6358d9",
+              "modified_at_ms": 1787759703757,
+              "relative_path": "7d55eef1-f7a8-493e-9c41-26adf17dbd3b/save_sys.dat",
+              "size_bytes": 4000
+            },
+            {
+              "content_hash": "ee3affddd02335f8694f9d61509cb1ae51784240983c4ca0d7662716157d1f01",
+              "modified_at_ms": 1787249745625,
+              "relative_path": "95217e6b-2317-43ab-9878-c93b8664c787/save02.dat",
+              "size_bytes": 2996
+            },
+            {
+              "content_hash": "31a0309cbe4ce020f20b680f885b4857216491a2192a680580396eaf4eede10c",
+              "modified_at_ms": 1786942616290,
+              "relative_path": "9d3e40a9-ccd1-4045-a68f-9d0c523a31b7/save09.atr",
+              "size_bytes": 167965
+            },
+            {
+              "content_hash": "6b0c7c9c49655e786af9ca151321f89eab0b68a5a831e4a1138cd5739efb1c5d",
+              "modified_at_ms": 1787248987890,
+              "relative_path": "c274e194-dffc-4dd8-b3b5-2a447f2cd145/save16.dat",
+              "size_bytes": 2996
+            },
+            {
+              "content_hash": "88393451830eb98a5c53d601794de7e82cd45a6530b8226c53d1ba8761e22b47",
+              "modified_at_ms": 1786942616286,
+              "relative_path": "ee1426ea-e212-4ded-902f-013c771afac9/save09.txt",
+              "size_bytes": 247586
+            },
+            {
+              "content_hash": "b224f7899d5d154ab2a6a74def84765d6200a0fba9074f85540f613ec243f711",
+              "modified_at_ms": 1787249745632,
+              "relative_path": "fc281532-a464-4447-a12f-3d19921f179b/save02.txt",
+              "size_bytes": 151990
+            }
+          ],
+          "id": "c3905780-68ca-46f1-adc2-278bd86066c6",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "3a86ee3ed629774a1c78d61f470e759fb1b7db711a9ba47453deca3e52b65b59",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 225420,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 10,
+      "sources": [
+        {
+          "id": "7d55eef1-f7a8-493e-9c41-26adf17dbd3b",
+          "kind": "file",
+          "name": "save_sys.dat"
+        },
+        {
+          "id": "95217e6b-2317-43ab-9878-c93b8664c787",
+          "kind": "file",
+          "name": "save02.dat"
+        },
+        {
+          "id": "fc281532-a464-4447-a12f-3d19921f179b",
+          "kind": "file",
+          "name": "save02.txt"
+        },
+        {
+          "id": "66f05044-bd69-4966-9f12-6a38590ff057",
+          "kind": "file",
+          "name": "save02.atr"
+        },
+        {
+          "id": "ee1426ea-e212-4ded-902f-013c771afac9",
+          "kind": "file",
+          "name": "save09.txt"
+        },
+        {
+          "id": "9d3e40a9-ccd1-4045-a68f-9d0c523a31b7",
+          "kind": "file",
+          "name": "save09.atr"
+        },
+        {
+          "id": "53710749-cb33-4659-a426-e4e87ab3cf46",
+          "kind": "file",
+          "name": "save09.dat"
+        },
+        {
+          "id": "c274e194-dffc-4dd8-b3b5-2a447f2cd145",
+          "kind": "file",
+          "name": "save16.dat"
+        },
+        {
+          "id": "409269bc-f9d7-478c-af4b-41766606ec98",
+          "kind": "file",
+          "name": "save16.txt"
+        },
+        {
+          "id": "67a9b17a-6c7e-4bee-87cd-67cf834a95ab",
+          "kind": "file",
+          "name": "save16.atr"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 225420,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790951821247
+  "updated_at_ms": 1790952024759
 }
