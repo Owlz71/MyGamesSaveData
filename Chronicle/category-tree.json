@@ -33,6 +33,13 @@
     ],
     "a8743166-983e-46cc-a698-c9323f279fc8": [],
     "cc6bf056-0016-494f-82c9-358bad919b87": [],
+    "f7e986ca-a143-4aaa-85c0-225b8093411e": [
+      {
+        "id": "6929a355-eaef-4d2e-b111-679816e22fbf",
+        "name": "一般向",
+        "parent_id": null
+      }
+    ],
     "fa5363ed-c1b6-44a4-a1ea-a96cb1d0834a": [
       {
         "id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
@@ -49,5 +56,5 @@
     ]
   },
   "formatVersion": 1,
-  "updatedAtMs": 1790955467332
+  "updatedAtMs": 1790958930762
 }
