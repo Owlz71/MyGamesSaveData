@@ -238,8 +238,82 @@
       "stored_bytes": 3701,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
+      "created_at_ms": 1790946965317,
+      "exclude_patterns": [],
+      "folder": "xqueens__fa5363ed-c1b6-44a4-a1ea-a96cb1d0834a",
+      "id": "fa5363ed-c1b6-44a4-a1ea-a96cb1d0834a",
+      "last_snapshot_at_ms": 1790946965354,
+      "name": "xqueens",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T131605.354Z_356a489c.7z",
+          "changes": {
+            "added": 4,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790946965354,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "fa5363ed-c1b6-44a4-a1ea-a96cb1d0834a",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "28a88be6701eab5cbb09ffa2529b3a2d51b1034467bf342d9e1b308fbf3b1740",
+              "modified_at_ms": 1766921373148,
+              "relative_path": "d74df356-4f86-4f24-b501-0d701348e39a/config.rmmzsave",
+              "size_bytes": 208
+            },
+            {
+              "content_hash": "521def35b0fbab4e354367536d091670cf21404b343db9e62116c3dba95dc0ed",
+              "modified_at_ms": 1766928677066,
+              "relative_path": "d74df356-4f86-4f24-b501-0d701348e39a/file0.rmmzsave",
+              "size_bytes": 15862
+            },
+            {
+              "content_hash": "a91b54ddc467c7e4ddb9c35bf23d14d8f00f3287e445f587ba8a18bffc9193e5",
+              "modified_at_ms": 1766932407693,
+              "relative_path": "d74df356-4f86-4f24-b501-0d701348e39a/file1.rmmzsave",
+              "size_bytes": 16551
+            },
+            {
+              "content_hash": "6263252140a253217caa0e2976aedde44d56e41f4a2529cf8787a7d007f3ae78",
+              "modified_at_ms": 1766932407695,
+              "relative_path": "d74df356-4f86-4f24-b501-0d701348e39a/global.rmmzsave",
+              "size_bytes": 247
+            }
+          ],
+          "id": "356a489c-9b30-4072-80a4-dc7318a9ae99",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "e07e6b45c5fa546a1d57f80be884802038b185220808ae395f685586e961422a",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 23143,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 1,
+      "sources": [
+        {
+          "id": "d74df356-4f86-4f24-b501-0d701348e39a",
+          "kind": "directory",
+          "name": "save"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 23143,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790951000427
+  "updated_at_ms": 1790951007432
 }
