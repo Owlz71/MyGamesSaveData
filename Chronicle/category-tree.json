@@ -1,5 +1,26 @@
 {
   "entries": {
+    "a44534a2-5798-491f-bd67-b47e64c6ba0b": [
+      {
+        "id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
+        "name": "R",
+        "parent_id": null
+      }
+    ],
+    "a4d06e01-0c4d-4e92-b5dc-ef4b4b92fc22": [
+      {
+        "id": "6929a355-eaef-4d2e-b111-679816e22fbf",
+        "name": "一般向",
+        "parent_id": null
+      }
+    ],
+    "fa5363ed-c1b6-44a4-a1ea-a96cb1d0834a": [
+      {
+        "id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
+        "name": "R",
+        "parent_id": null
+      }
+    ],
     "fc18342b-81f7-4fb2-8c7d-e9e72853ee79": [
       {
         "id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
@@ -9,5 +30,5 @@
     ]
   },
   "formatVersion": 1,
-  "updatedAtMs": 1790950938112
+  "updatedAtMs": 1790951032311
 }
