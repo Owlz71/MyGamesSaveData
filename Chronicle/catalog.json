@@ -1,13 +1,13 @@
 {
   "categories": [
     {
-      "id": "6929a355-eaef-4d2e-b111-679816e22fbf",
-      "name": "一般向",
+      "id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
+      "name": "R",
       "parent_id": null
     },
     {
-      "id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
-      "name": "R",
+      "id": "6929a355-eaef-4d2e-b111-679816e22fbf",
+      "name": "一般向",
       "parent_id": null
     }
   ],
@@ -1431,8 +1431,82 @@
       "stored_bytes": 4292,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": "6929a355-eaef-4d2e-b111-679816e22fbf",
+      "created_at_ms": 1790958914962,
+      "exclude_patterns": [],
+      "folder": "Braid Anniversary Edition__f7e986ca-a143-4aaa-85c0-225b8093411e",
+      "id": "f7e986ca-a143-4aaa-85c0-225b8093411e",
+      "last_snapshot_at_ms": 1790958915034,
+      "name": "Braid Anniversary Edition",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T163515.034Z_997901b7.7z",
+          "changes": {
+            "added": 4,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790958915034,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "f7e986ca-a143-4aaa-85c0-225b8093411e",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "c03de1bfded87cbc1cecc35c94630a3e1d4af59d0f00a04ee0f85315c9583bac",
+              "modified_at_ms": 1768966032852,
+              "relative_path": "cc8f1997-9ead-42e6-b5d8-4be6d7b83c06/logs/log.txt",
+              "size_bytes": 204290
+            },
+            {
+              "content_hash": "15ff1e4675ce5fe48a39a709b33390771855e31e8992d8e33caf563d20cbc919",
+              "modified_at_ms": 1765090798666,
+              "relative_path": "cc8f1997-9ead-42e6-b5d8-4be6d7b83c06/slot_0.braid_campaign",
+              "size_bytes": 1753
+            },
+            {
+              "content_hash": "2202da03405bdf4d0428c86eee6eca6a8bc28e386eb93f533a0b925ae164b917",
+              "modified_at_ms": 1768965579384,
+              "relative_path": "cc8f1997-9ead-42e6-b5d8-4be6d7b83c06/slot_1.braid_campaign",
+              "size_bytes": 1753
+            },
+            {
+              "content_hash": "41c810cf7aeb4caeb0d80caa5de65e4eccbdca00a19d6a5353d45211f3568ff0",
+              "modified_at_ms": 1768963115265,
+              "relative_path": "cc8f1997-9ead-42e6-b5d8-4be6d7b83c06/user_settings.variables",
+              "size_bytes": 366
+            }
+          ],
+          "id": "997901b7-ff02-45f6-8d1a-27eb7522a407",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "323343da6c09c4f91f50caef0cf6a6d6800a36d71088e5b37597e4d0a62bd284",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 7607,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 1,
+      "sources": [
+        {
+          "id": "cc8f1997-9ead-42e6-b5d8-4be6d7b83c06",
+          "kind": "directory",
+          "name": "Braid, Anniversary Edition"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 7607,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790955459816
+  "updated_at_ms": 1790958923519
 }
