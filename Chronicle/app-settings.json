@@ -1,6 +1,9 @@
 {
   "app": {
     "autoBackupDelaySeconds": 5,
+    "autoSyncEnabled": true,
+    "autoSyncIntervalDays": 30,
+    "autoSyncLastAt": 1790955254544,
     "backupHealthStaleDays": 60,
     "checkCloudOnLaunch": false,
     "checkForUpdates": true,
@@ -11,6 +14,7 @@
     "defaultAutomaticUpload": true,
     "defaultStoragePolicy": "local_and_remote",
     "language": "zh-CN",
+    "lastArchiveCategoryId": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
     "launchAtStartup": false,
     "notifications": true,
     "recycleBinEnabled": false,
@@ -22,5 +26,5 @@
     "updateChannel": "stable"
   },
   "formatVersion": 1,
-  "updatedAtMs": 1790951827601
+  "updatedAtMs": 1790955419570
 }
