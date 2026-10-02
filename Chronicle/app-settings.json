@@ -6,7 +6,7 @@
     "checkForUpdates": true,
     "closeBehavior": "tray",
     "colorMode": "dark",
-    "colorTheme": "indigo",
+    "colorTheme": "violet",
     "createInitialSnapshot": true,
     "defaultAutomaticUpload": true,
     "defaultStoragePolicy": "local_and_remote",
@@ -22,5 +22,5 @@
     "updateChannel": "stable"
   },
   "formatVersion": 1,
-  "updatedAtMs": 1790950936201
+  "updatedAtMs": 1790951827601
 }
