@@ -1003,8 +1003,76 @@
       "stored_bytes": 225420,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": null,
+      "created_at_ms": 1790952071071,
+      "exclude_patterns": [],
+      "folder": "REMEMBER11__57bd9910-a3dd-4ecc-b3a0-1e8d8f63ad5d",
+      "id": "57bd9910-a3dd-4ecc-b3a0-1e8d8f63ad5d",
+      "last_snapshot_at_ms": 1790952071338,
+      "name": "REMEMBER11",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T144111.338Z_8106c547.7z",
+          "changes": {
+            "added": 3,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790952071338,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "57bd9910-a3dd-4ecc-b3a0-1e8d8f63ad5d",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "9686a4a1375cdd6afb65d0d4baf17046fb7fbe638dae56d651efd2d37fd59d5a",
+              "modified_at_ms": 1788462224334,
+              "relative_path": "0d40a919-d2fc-429f-bdce-82d7e69bf0bc/存档文件/BISLPM-65549/BISLPM-65549",
+              "size_bytes": 54272
+            },
+            {
+              "content_hash": "5717be4f7ab36231ded97224c5c37def46a6de641a1e29c9f33a73c84e688301",
+              "modified_at_ms": 1787729178539,
+              "relative_path": "0d40a919-d2fc-429f-bdce-82d7e69bf0bc/存档文件/BISLPM-65549/icon.ico",
+              "size_bytes": 49044
+            },
+            {
+              "content_hash": "26cef52e37e3974d8bd70e3ec8808d8e81174821183ccc5cc7a0969679d2398d",
+              "modified_at_ms": 1787729178640,
+              "relative_path": "0d40a919-d2fc-429f-bdce-82d7e69bf0bc/存档文件/BISLPM-65549/icon.sys",
+              "size_bytes": 964
+            }
+          ],
+          "id": "8106c547-0570-490f-a7d2-209c767ba5f7",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "c11008c79cc2f855cc1bc5aea4064d3181b2d9a4cda9b8931f60c4f91f4eb63e",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 11622,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 1,
+      "sources": [
+        {
+          "id": "0d40a919-d2fc-429f-bdce-82d7e69bf0bc",
+          "kind": "directory",
+          "name": "REMEMBER11"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 11622,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790952024759
+  "updated_at_ms": 1790952073708
 }
