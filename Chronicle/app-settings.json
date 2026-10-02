@@ -1,0 +1,26 @@
+{
+  "app": {
+    "autoBackupDelaySeconds": 5,
+    "backupHealthStaleDays": 60,
+    "checkCloudOnLaunch": false,
+    "checkForUpdates": true,
+    "closeBehavior": "tray",
+    "colorMode": "dark",
+    "colorTheme": "indigo",
+    "createInitialSnapshot": true,
+    "defaultAutomaticUpload": true,
+    "defaultStoragePolicy": "local_and_remote",
+    "language": "zh-CN",
+    "launchAtStartup": false,
+    "notifications": true,
+    "recycleBinEnabled": false,
+    "recycleBinPath": "",
+    "retentionCount": 15,
+    "searchShortcut": "Ctrl+K",
+    "settingsShortcut": "Ctrl+,",
+    "snapshotShortcut": "Ctrl+Shift+B",
+    "updateChannel": "stable"
+  },
+  "formatVersion": 1,
+  "updatedAtMs": 1790950936201
+}
