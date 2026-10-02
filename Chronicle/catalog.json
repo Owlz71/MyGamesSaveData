@@ -128,8 +128,118 @@
       "stored_bytes": 46297,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
+      "created_at_ms": 1790941084413,
+      "exclude_patterns": [],
+      "folder": "One Night__a44534a2-5798-491f-bd67-b47e64c6ba0b",
+      "id": "a44534a2-5798-491f-bd67-b47e64c6ba0b",
+      "last_snapshot_at_ms": 1790941165833,
+      "name": "One Night",
+      "snapshot_count": 2,
+      "snapshots": [
+        {
+          "archive_name": "20261002T113804.465Z_80bfe5f4.7z",
+          "changes": {
+            "added": 3,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790941084465,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "a44534a2-5798-491f-bd67-b47e64c6ba0b",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "5c13069de8a9e1027ccd4974a8c5d0d63ef038d5c2c8ca5931d7043e65fcaea5",
+              "modified_at_ms": 1786906434991,
+              "relative_path": "db0f3ac9-5d41-40f3-913b-0d96689692cb/1263596b6c397c840a6f9d7c06ec071f",
+              "size_bytes": 1030
+            },
+            {
+              "content_hash": "b11ad7e39efef2aae4cc4bd626ac2e92b2fa831dcbf0806b10859211b24a1e38",
+              "modified_at_ms": 1782304804871,
+              "relative_path": "db0f3ac9-5d41-40f3-913b-0d96689692cb/2bbf03c5feddf9044bdd45625a700fce",
+              "size_bytes": 5537
+            },
+            {
+              "content_hash": "b6a3741c64ed664d14d2122aaa907a5bb98b9d014b4a72585c4747234b21138d",
+              "modified_at_ms": 1786906434952,
+              "relative_path": "db0f3ac9-5d41-40f3-913b-0d96689692cb/Config",
+              "size_bytes": 336
+            }
+          ],
+          "id": "80bfe5f4-0c28-4a95-9404-de4c48b93ae8",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "6d911105c852484160816aec73d6fe7090fba67ec3a42522147bd37627f994e4",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 1856,
+          "title": "初始版本"
+        },
+        {
+          "archive_name": "20261002T113925.833Z_da3951d2.7z",
+          "changes": {
+            "added": 0,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790941165833,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "a44534a2-5798-491f-bd67-b47e64c6ba0b",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "5c13069de8a9e1027ccd4974a8c5d0d63ef038d5c2c8ca5931d7043e65fcaea5",
+              "modified_at_ms": 1786906434991,
+              "relative_path": "db0f3ac9-5d41-40f3-913b-0d96689692cb/1263596b6c397c840a6f9d7c06ec071f",
+              "size_bytes": 1030
+            },
+            {
+              "content_hash": "b11ad7e39efef2aae4cc4bd626ac2e92b2fa831dcbf0806b10859211b24a1e38",
+              "modified_at_ms": 1782304804871,
+              "relative_path": "db0f3ac9-5d41-40f3-913b-0d96689692cb/2bbf03c5feddf9044bdd45625a700fce",
+              "size_bytes": 5537
+            },
+            {
+              "content_hash": "b6a3741c64ed664d14d2122aaa907a5bb98b9d014b4a72585c4747234b21138d",
+              "modified_at_ms": 1790941157536,
+              "relative_path": "db0f3ac9-5d41-40f3-913b-0d96689692cb/Config",
+              "size_bytes": 336
+            }
+          ],
+          "id": "da3951d2-5929-4691-9cdc-086754face0e",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "177c2391634b3628b9c5a30213414a2cd787212ce3db5347af2fd8b623e4b1ca",
+          "parent_id": "80bfe5f4-0c28-4a95-9404-de4c48b93ae8",
+          "safety": false,
+          "size_bytes": 1845,
+          "title": "手动备份"
+        }
+      ],
+      "source_count": 1,
+      "sources": [
+        {
+          "id": "db0f3ac9-5d41-40f3-913b-0d96689692cb",
+          "kind": "directory",
+          "name": "One Night"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 3701,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790950929596
+  "updated_at_ms": 1790951000427
 }
