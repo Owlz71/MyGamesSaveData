@@ -780,8 +780,76 @@
       "stored_bytes": 161173,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": null,
+      "created_at_ms": 1790951817776,
+      "exclude_patterns": [],
+      "folder": "maxwells_puzzling_demon__a8743166-983e-46cc-a698-c9323f279fc8",
+      "id": "a8743166-983e-46cc-a698-c9323f279fc8",
+      "last_snapshot_at_ms": 1790951817905,
+      "name": "maxwells_puzzling_demon",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T143657.905Z_08720bce.7z",
+          "changes": {
+            "added": 3,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790951817905,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "a8743166-983e-46cc-a698-c9323f279fc8",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "a602de76b95c9059769900ec1182f17ff6f087bcfaccd68dfb75748827237b77",
+              "modified_at_ms": 1790610647835,
+              "relative_path": "171503e0-61d7-490f-a115-fc9ebf8c4cdf/save/76561197960287930/1/progress.save",
+              "size_bytes": 236
+            },
+            {
+              "content_hash": "06a7e76169281ac9b4b11832af5a7aab0bd4079321511272c32551c6d99e4f6c",
+              "modified_at_ms": 1790608698017,
+              "relative_path": "171503e0-61d7-490f-a115-fc9ebf8c4cdf/save/76561197960287930/1/setting.json",
+              "size_bytes": 264
+            },
+            {
+              "content_hash": "5fe61f30c8f676d53fa6391aea6e430a5ec43a3086153ba993e39806b5b25410",
+              "modified_at_ms": 1790079411929,
+              "relative_path": "171503e0-61d7-490f-a115-fc9ebf8c4cdf/save/76561197960287930/multisave.json",
+              "size_bytes": 20
+            }
+          ],
+          "id": "08720bce-921c-4288-8001-43d4ed5ec35c",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "c01146e6792a4121d64ecad7f887adfeb9cc4212910c0f2075ffdd3e0873dc95",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 775,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 1,
+      "sources": [
+        {
+          "id": "171503e0-61d7-490f-a115-fc9ebf8c4cdf",
+          "kind": "directory",
+          "name": "maxwells_puzzling_demon"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 775,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790951690377
+  "updated_at_ms": 1790951821247
 }
