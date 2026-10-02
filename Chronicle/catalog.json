@@ -1375,8 +1375,64 @@
       "stored_bytes": 10888,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
+      "created_at_ms": 1790955455864,
+      "exclude_patterns": [],
+      "folder": "SecretFlasherManaka__5adc6a2d-4056-4a3d-a141-ddf0a07d820d",
+      "id": "5adc6a2d-4056-4a3d-a141-ddf0a07d820d",
+      "last_snapshot_at_ms": 1790955455925,
+      "name": "SecretFlasherManaka",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T153735.925Z_66781c50.7z",
+          "changes": {
+            "added": 1,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790955455925,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "5adc6a2d-4056-4a3d-a141-ddf0a07d820d",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "932dbe779fc3a8448d3c5a88ed888c81eaf432b86fadc379e31378622751a199",
+              "modified_at_ms": 1764568808379,
+              "relative_path": "a2993d52-7376-43d5-bdaf-4438033d24b8/SaveData/s.sd",
+              "size_bytes": 4048
+            }
+          ],
+          "id": "66781c50-ce62-4aea-af10-b7fda20df6c1",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "0a2025e1e142259330ed4500373da376e740b9dc856ed413f453621294bf2dee",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 4292,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 1,
+      "sources": [
+        {
+          "id": "a2993d52-7376-43d5-bdaf-4438033d24b8",
+          "kind": "directory",
+          "name": "SecretFlasherManaka"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 4292,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790955413732
+  "updated_at_ms": 1790955459816
 }
