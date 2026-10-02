@@ -4,6 +4,11 @@
       "id": "6c50516d-8dd1-4c52-826d-4239e3d1ea64",
       "name": "R",
       "parent_id": null
+    },
+    {
+      "id": "6929a355-eaef-4d2e-b111-679816e22fbf",
+      "name": "一般向",
+      "parent_id": null
     }
   ],
   "entries": [
@@ -312,8 +317,97 @@
       "stored_bytes": 23143,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": "6929a355-eaef-4d2e-b111-679816e22fbf",
+      "created_at_ms": 1790949959598,
+      "exclude_patterns": [],
+      "folder": "数码宝贝__a4d06e01-0c4d-4e92-b5dc-ef4b4b92fc22",
+      "id": "a4d06e01-0c4d-4e92-b5dc-ef4b4b92fc22",
+      "last_snapshot_at_ms": 1790949959684,
+      "name": "数码宝贝",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261002T140559.684Z_62530eff.7z",
+          "changes": {
+            "added": 4,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1790949959684,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "a4d06e01-0c4d-4e92-b5dc-ef4b4b92fc22",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "cdbf6ec3c4e3ef8fb0dfd3089bc732a08446b4e22ab24507a835608f7c2d2e03",
+              "modified_at_ms": 1783946122214,
+              "relative_path": "02cfd7a5-37da-4c45-b9cc-4bb71c067e61/sysdata_dx11.bin",
+              "size_bytes": 992
+            },
+            {
+              "content_hash": "7ca9ddf9136e221a20757fa8b012d989d81c723c74349b636bca27f8296bfec7",
+              "modified_at_ms": 1784822632571,
+              "relative_path": "2946bb37-ed75-47c3-9f94-7682f07ee19d/slot_0001.bin",
+              "size_bytes": 720
+            },
+            {
+              "content_hash": "7ec61ccdc7b7adb3f112071ea9d48b8ee2f65146d84d68b2c8f51efd69d9978a",
+              "modified_at_ms": 1784823005208,
+              "relative_path": "64cd51dc-d6e5-4e8b-96cf-cb44fcff674e/slot_0000.bin",
+              "size_bytes": 720
+            },
+            {
+              "content_hash": "43b28ffec4a754d4e22f3af89652bbff67123a1a2c02594ae512d051b2f4970c",
+              "modified_at_ms": 1784823005210,
+              "relative_path": "e77ce12f-5ea5-46eb-817b-78f82c225a58/0000.bin",
+              "size_bytes": 3098176
+            }
+          ],
+          "id": "62530eff-bbe2-4f60-b8de-1ae6f97ec129",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "6316ba2051e67fe224ff9249bd12f9d5b79f1fb957f32ea546aa2dd77ad2e3ed",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 190335,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 4,
+      "sources": [
+        {
+          "id": "2946bb37-ed75-47c3-9f94-7682f07ee19d",
+          "kind": "file",
+          "name": "slot_0001.bin"
+        },
+        {
+          "id": "e77ce12f-5ea5-46eb-817b-78f82c225a58",
+          "kind": "file",
+          "name": "0000.bin"
+        },
+        {
+          "id": "64cd51dc-d6e5-4e8b-96cf-cb44fcff674e",
+          "kind": "file",
+          "name": "slot_0000.bin"
+        },
+        {
+          "id": "02cfd7a5-37da-4c45-b9cc-4bb71c067e61",
+          "kind": "file",
+          "name": "sysdata_dx11.bin"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 190335,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790951007432
+  "updated_at_ms": 1790951023583
 }
