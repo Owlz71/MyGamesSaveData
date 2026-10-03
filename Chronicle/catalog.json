@@ -1736,8 +1736,94 @@
       "stored_bytes": 1289851,
       "sync_mode": "manual",
       "tags": []
+    },
+    {
+      "auto_backup_enabled": false,
+      "automatic_upload_enabled": true,
+      "category_id": "6929a355-eaef-4d2e-b111-679816e22fbf",
+      "created_at_ms": 1791017707860,
+      "exclude_patterns": [],
+      "folder": "魔剣士ソルティとトラップダンジョン__3a123f23-72d4-4672-895f-debcc2fe7355",
+      "id": "3a123f23-72d4-4672-895f-debcc2fe7355",
+      "last_snapshot_at_ms": 1791017707949,
+      "name": "魔剣士ソルティとトラップダンジョン",
+      "snapshot_count": 1,
+      "snapshots": [
+        {
+          "archive_name": "20261003T085507.949Z_e9bdcf04.7z",
+          "changes": {
+            "added": 6,
+            "deleted": 0,
+            "modified": 0
+          },
+          "created_at_ms": 1791017707949,
+          "device_id": "d7af055d-5f02-47f3-a330-d6613210d234",
+          "device_name": "DESKTOP-PASTRTD",
+          "entry_id": "3a123f23-72d4-4672-895f-debcc2fe7355",
+          "exclude_patterns": [],
+          "files": [
+            {
+              "content_hash": "7f55049f9369eecaca00f10a9d05eb464b6f5a49119206941d9044c1eb7a1157",
+              "modified_at_ms": 1790313976000,
+              "relative_path": "e535b2d6-2c30-42f7-abd6-cdef7aed3115/config.rmmzsave",
+              "size_bytes": 173
+            },
+            {
+              "content_hash": "f06bf925d4e323fb936949c2e3db5dc8240350cd81d3aa64121bcf39134edadb",
+              "modified_at_ms": 1791017626000,
+              "relative_path": "e535b2d6-2c30-42f7-abd6-cdef7aed3115/file0.rmmzsave",
+              "size_bytes": 13363
+            },
+            {
+              "content_hash": "28f2b7a285cf94ba4e5d6800d5865c96c788ba2986542871524840c6fc873db5",
+              "modified_at_ms": 1791017675770,
+              "relative_path": "e535b2d6-2c30-42f7-abd6-cdef7aed3115/file1.rmmzsave",
+              "size_bytes": 15332
+            },
+            {
+              "content_hash": "da9a0363d5182a383aff58be66b76103acc0c0abd9db008c667f5df13e5bcfc9",
+              "modified_at_ms": 1791017464726,
+              "relative_path": "e535b2d6-2c30-42f7-abd6-cdef7aed3115/file2.rmmzsave",
+              "size_bytes": 8601
+            },
+            {
+              "content_hash": "33cbae8d3ad925165420a47858584fedb8ca0e234fc7ccd707b9a1412950364f",
+              "modified_at_ms": 1791017588009,
+              "relative_path": "e535b2d6-2c30-42f7-abd6-cdef7aed3115/file3.rmmzsave",
+              "size_bytes": 10575
+            },
+            {
+              "content_hash": "be5bb88130c993b4058645dac145f6b6de977f8667e55cc501eb4a9b73f7f296",
+              "modified_at_ms": 1791017675772,
+              "relative_path": "e535b2d6-2c30-42f7-abd6-cdef7aed3115/global.rmmzsave",
+              "size_bytes": 310
+            }
+          ],
+          "id": "e9bdcf04-9ad1-4bd8-8e4a-5ff48a23fb7f",
+          "locked": false,
+          "metadata_updated_at_ms": 0,
+          "note": "",
+          "object_hash": "aa66cd00d531977c21fc7bc14fee5713ac54ff368c8df1250f9656379b0f3723",
+          "parent_id": null,
+          "safety": false,
+          "size_bytes": 34025,
+          "title": "初始版本"
+        }
+      ],
+      "source_count": 1,
+      "sources": [
+        {
+          "id": "e535b2d6-2c30-42f7-abd6-cdef7aed3115",
+          "kind": "directory",
+          "name": "save"
+        }
+      ],
+      "storage_policy": "local_and_remote",
+      "stored_bytes": 34025,
+      "sync_mode": "manual",
+      "tags": []
     }
   ],
   "format_version": 4,
-  "updated_at_ms": 1790959381736
+  "updated_at_ms": 1791017709160
 }
